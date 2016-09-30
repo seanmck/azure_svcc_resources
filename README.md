@@ -82,3 +82,8 @@ https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/
 
 Solution architectures
 https://azure.microsoft.com/en-us/solutions/architecture/ 
+
+## Internet of Things
+
+1. [IoT Hub](https://azure.microsoft.com/en-us/develop/iot/)
+1. [Machine Learning](https://azure.microsoft.com/en-us/documentation/services/machine-learning/)
