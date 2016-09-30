@@ -41,3 +41,8 @@
 ## Azure Container Service
 
 ## Service Fabric
+
+1. [Getting Started](http://aka.ms/servicefabricsdk)
+1. [Learning path](https://azure.microsoft.com/en-us/documentation/learning-paths/service-fabric/)
+1. [Samples](http://aka.ms/servicefabricsamples)
+1. [Lab (Windows only)](https://msdnshared.blob.core.windows.net/media/2016/07/SF-Lab-Part-I.docx)
