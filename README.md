@@ -1,5 +1,10 @@
 # Hands on with Microsoft Azure @ Silicon Valley Code Camp
 
+## Mapping between cloud platforms
+[Microsoft Azure and Amazon Web Services](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
+
+Of course, choices are based on more than simply feature sets, not only because comparing apples and oranges are hard, but because your confidence in the relationship is also very important. But if you know AWS, this is a good resource to start from when understanging Azure.
+
 ## App Service
 
 1. [Try App Service](https://tryappservice.azure.com)
