@@ -46,3 +46,20 @@
 1. [Learning path](https://azure.microsoft.com/en-us/documentation/learning-paths/service-fabric/)
 1. [Samples](http://aka.ms/servicefabricsamples)
 1. [Lab (Windows only)](https://msdnshared.blob.core.windows.net/media/2016/07/SF-Lab-Part-I.docx)
+
+## General Azure Resources
+
+Azure Developer Guide
+https://azure.microsoft.com/en-us/campaigns/developer-guide/
+
+Azure Samples
+https://azure.microsoft.com/en-us/documentation/samples/
+
+Azure Resource Manager Quickstart Templates
+https://azure.microsoft.com/en-us/documentation/templates/
+
+Comparing Azure and AWS
+https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/ 
+
+Solution architectures
+https://azure.microsoft.com/en-us/solutions/architecture/ 
