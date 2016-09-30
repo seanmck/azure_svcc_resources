@@ -1,4 +1,4 @@
-# azure_svcc_resources
+# Hands on with Microsoft Azure @ Silicon Valley Code Camp
 
 ## App Service
 
